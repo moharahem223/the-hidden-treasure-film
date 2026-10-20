@@ -1,0 +1,31 @@
+SCENE 01 — THE EXPEDITION (الرحلة في الأدغال)
+TOOL: Google Flow / Veo 3.1 Lite | DURATION: 8 seconds (trim to 7s if desired) | ASPECT RATIO: Vertical 9:16
+VISUAL REFERENCE (START FRAME): scene01_first_frame.png (strict immutable start frame)
+
+CHARACTERS & VISUAL CONSTANTS:
+- Yacine (foreground left-of-center, age 38): Bearded Algerian explorer in dark olive rolled-sleeve button-up shirt, brown trousers, muddy brown boots, brown canvas backpack with small black flashlight clipped on his left shoulder strap, brown watch on left wrist.
+- Mourad (middle ground right-of-center, ~1m behind Yacine, age 32): Slicked-back black hair, sand expedition button-up shirt, dark brown cargo trousers, black boots, dark utility backpack, black fingerless tactical gloves on both hands.
+- Samir (background far right behind Mourad, age 29): Short black hair, thin mustache, charcoal-gray long-sleeve shirt, dark green cargo trousers, dark wristband on left wrist, compact dark backpack.
+
+EXACT STARTING POSE & HAND LOCKS (MATCHING scene01_first_frame.png):
+- Yacine stands facing forward on the muddy jungle path: his LEFT hand grips his left canvas backpack shoulder strap just below the clipped black flashlight; his RIGHT arm hangs straight down holding the folded weathered paper map against his right thigh.
+- Mourad stands behind right-of-center with both black-gloved hands relaxed at his sides, head angled slightly right looking toward the jungle path.
+- Samir stands behind Mourad on the right with hands relaxed at his sides, head angled right looking cautiously into the jungle foliage.
+
+TIMESTAMPED ACTION & DIALOGUE TIMELINE:
+- 0.0s – 1.5s: Ambient jungle stillness. Yacine glances down briefly toward the folded map in his right hand without swapping hands, then raises his eyes forward with calm leadership. Keep Yacine's left hand gripping the backpack strap.
+- 1.5s – 3.8s: Yacine looks ahead with calm authority and speaks clearly in Algerian Darija: "الكنز راه قريب، غير تبعوني مليح." (Lip-sync Yacine ONLY. Mourad and Samir keep their mouths completely closed.)
+- 3.8s – 5.5s: Mourad turns his head toward Yacine while keeping both black-gloved hands steady near his sides and speaks in Algerian Darija: "راك متأكد بلي رانا في الطريق الصحيح؟" (Lip-sync Mourad ONLY. Yacine and Samir keep their mouths closed.)
+- 5.5s – 8.0s: Yacine gives one subtle confident nod, keeps the folded map securely in his right hand at his side, and shifts his weight slightly forward ready to walk along the trail while Samir glances quietly from Mourad back to Yacine.
+
+CAMERA SPECIFICATION:
+- Locked static tripod eye-level medium-wide shot (35mm cinema lens). Zero pan, zero zoom, zero tilt, zero cuts.
+
+AUDIO SPECIFICATION:
+- Clear natural Algerian Darija dialogue with exact wording above, no extra words, no repeated phrases, no overlapping speech. Subtle background jungle insects, distant birds, soft leaf rustle, no background music.
+
+FINAL FRAME STATE:
+- All three men remain in their exact relative positions on the muddy trail, Yacine steady in foreground holding backpack strap in left hand and folded map in right hand, ready to advance deeper into the jungle.
+
+STRICT CONSTRAINTS / FORBIDDEN ERRORS:
+- Do NOT swap left and right hands; do NOT move the paper map into Yacine's left hand; do NOT add extra people; do NOT alter faces, hair, clothes, backpacks, or gloves; no mouth movement on silent characters; no generated subtitles, text, or logos.

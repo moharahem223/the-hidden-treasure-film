@@ -1,0 +1,31 @@
+SCENE 05 — OUTNUMBERED (المواجهة وحصار المخرج)
+TOOL: Google Flow / Veo 3.1 Lite | DURATION: 8 seconds | ASPECT RATIO: Vertical 9:16
+VISUAL REFERENCE (START FRAME): scene05_first_frame.png (strict immutable start frame)
+
+CHARACTERS & VISUAL CONSTANTS:
+- Yacine (left foreground in right profile): 38, dark olive rolled-sleeve shirt, brown trousers, brown canvas backpack with black flashlight, brown watch on left wrist.
+- Mourad (right foreground in left profile facing Yacine ~1m across open gold chest): 32, slicked-back black hair, sand expedition shirt, dark brown cargo pants, black fingerless gloves on both hands, dark backpack.
+- Samir (center background directly in front of dark arched stone chamber doorway behind open chest lid): 29, charcoal-gray long-sleeve shirt, green cargo pants, dark wristband, compact backpack.
+
+EXACT STARTING POSE & HAND LOCKS (MATCHING scene05_first_frame.png):
+- Yacine stands upright on the left facing Mourad, holding the small gold artifact in BOTH hands at lower-chest / waist level.
+- Mourad stands on the right facing Yacine: his RIGHT arm is raised bent at the elbow with his black-gloved open palm facing Yacine at chest level in a firm 'stop' gesture; his LEFT arm hangs down at his left thigh.
+- Samir stands centered in the background blocking the arched stone exit, both arms hanging straight at his sides.
+
+TIMESTAMPED ACTION & DIALOGUE TIMELINE:
+- 0.0s – 1.5s: Tense standoff across the open gold chest. Keep Mourad's raised RIGHT black-gloved open palm locked steady in the stop gesture and his left arm relaxed at his thigh.
+- 1.5s – 4.2s: Keeping the gold artifact steady in both hands at waist height, Yacine stares straight at Mourad with wounded disbelief and speaks in Algerian Darija: "بعد كامل واش درتلكم، هكذا تردّوهالي؟" (Lip-sync Yacine ONLY. Mourad and Samir keep mouths closed.)
+- 4.2s – 6.0s: Maintaining his raised right open palm without dropping or swapping hands, Mourad stares coldly at Yacine and replies in Algerian Darija: "كل واحد يشوف مصلحتو يا ياسين." (Lip-sync Mourad ONLY.)
+- 6.0s – 8.0s: In the background, Samir lowers his gaze briefly avoiding Yacine's eyes while staying silently in place blocking the doorway; on the left, Yacine slowly lowers both hands holding the small gold artifact down toward the front wooden rim of the open chest in controlled silence without sudden motion.
+
+CAMERA SPECIFICATION:
+- Locked static tripod eye-level medium three-shot (35mm cinema lens). Zero zoom, zero pan, zero tilt, zero cuts.
+
+AUDIO SPECIFICATION:
+- Quiet underground stone chamber ambience, soft cloth movement as Yacine lowers his arms at the end. Authentic Algerian Darija dialogue with zero added words, zero repetition, zero music.
+
+FINAL FRAME STATE:
+- Yacine stands calmly on the left having lowered the gold artifact to the chest rim, Mourad still facing him on the right in cold control, and Samir standing silently blocking the rear chamber doorway.
+
+STRICT CONSTRAINTS / FORBIDDEN ERRORS:
+- Do NOT drop or swap Mourad's raised right hand with his left hand; NO physical fighting, punches, blood, or weapons; keep Samir silent with mouth completely closed the entire clip; keep chest gold static; no subtitles or logos.

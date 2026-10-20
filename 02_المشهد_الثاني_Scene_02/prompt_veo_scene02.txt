@@ -1,0 +1,31 @@
+SCENE 02 — THE HIDDEN ENTRANCE (اكتشاف البوابة الحجرية المخفية)
+TOOL: Google Flow / Veo 3.1 Lite | DURATION: 8 seconds (trim to 7s if desired) | ASPECT RATIO: Vertical 9:16
+VISUAL REFERENCE (START FRAME): scene02_first_frame.png (strict immutable start frame)
+
+CHARACTERS & VISUAL CONSTANTS:
+- Yacine (foreground right-of-center): 38, bearded, dark olive rolled-sleeve shirt, brown trousers, brown canvas backpack with small black flashlight on left strap, brown watch on left wrist.
+- Mourad (middle ground directly behind Yacine's right shoulder): 32, slicked-back black hair, sand expedition shirt, dark brown cargo pants, black fingerless gloves, dark backpack.
+- Samir (background left behind Mourad): 29, thin mustache, charcoal-gray long-sleeve shirt, dark green cargo pants, dark backpack.
+
+EXACT STARTING POSE & HAND LOCKS (MATCHING scene02_first_frame.png):
+- Yacine stands close to the moss-covered rectangular ancient stone doorway on the right: his LEFT hand is raised gripping a vertical hanging vine right beside the dark doorway opening; his RIGHT arm hangs down holding the folded paper map in front of his right thigh.
+- Mourad stands closely behind Yacine leaning slightly forward looking intensely toward the dark stone doorway, his black-gloved right hand relaxed by his thigh.
+- Samir stands on the left behind Mourad with arms relaxed downward, looking attentively toward the doorway.
+
+TIMESTAMPED ACTION & DIALOGUE TIMELINE:
+- 0.0s – 1.8s: Using ONLY his raised LEFT hand already gripping the hanging vine, Yacine pulls the vine slightly further aside by a few centimeters to clearer view the dark ancient doorway, while keeping his RIGHT hand holding the folded paper map steady down by his right thigh.
+- 1.8s – 3.8s: Keeping his left hand holding the vine steady, Yacine looks closely at the dark stone entrance and speaks in natural Algerian Darija: "هادي هي البلاصة اللي كنت نقلب عليها." (Lip-sync Yacine ONLY. Mourad and Samir remain completely silent with mouths closed.)
+- 3.8s – 5.4s: Mourad leans slightly closer peering into the dark stone opening (hands remaining down at his sides) and asks quietly in Algerian Darija: "يعني الكنز بصح كاين؟" (Lip-sync Mourad ONLY.)
+- 5.4s – 8.0s: Yacine gives a single firm nod toward the dark stone entrance with quiet certainty; Samir's facial expression shifts subtly from caution to eager anticipation without speaking.
+
+CAMERA SPECIFICATION:
+- Locked static tripod eye-level medium shot (35mm cinema lens). Zero zoom, zero pan, zero camera shake, zero cuts.
+
+AUDIO SPECIFICATION:
+- Clear Algerian Darija voices matching exact lines above without adding or repeating words. Soft leaf/vine rustle as Yacine moves the vine, quiet outdoor forest insects, no artificial cave echo, no music.
+
+FINAL FRAME STATE:
+- Yacine remains at the stone entrance holding the pulled vine with his left hand and map in his right hand, Mourad leaning intently behind him and Samir watching behind left, ready to step inside the chamber.
+
+STRICT CONSTRAINTS / FORBIDDEN ERRORS:
+- Do NOT switch the map or vine between Yacine's left and right hands; do NOT add glowing runes or magic lights inside the dark doorway; do NOT change character positions or outfits; no silent-character lip motion; no text, subtitles, or watermarks.

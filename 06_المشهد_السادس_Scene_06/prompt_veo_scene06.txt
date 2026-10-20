@@ -1,0 +1,31 @@
+SCENE 06 — THE FINAL LOOK / CLIFFHANGER (النظرة الأخيرة والنهاية المفتوحة)
+TOOL: Google Flow / Veo 3.1 Lite | DURATION: 8 seconds | ASPECT RATIO: Vertical 9:16
+VISUAL REFERENCE (START FRAME): scene06_first_frame.png (strict immutable start frame)
+
+CHARACTERS & VISUAL CONSTANTS:
+- Yacine (prominent foreground right, medium close-up): 38, bearded, dark olive rolled-sleeve shirt, brown trousers, brown canvas backpack with small black flashlight clipped to left shoulder strap, brown watch on left wrist.
+- Mourad (middle ground left beside open gold-filled chest): 32, sand expedition shirt, dark brown cargo trousers, black fingerless gloves on both hands, dark utility backpack straps over shoulders.
+- Samir (background center in front of dark arched stone chamber doorway): 29, charcoal-gray long-sleeve shirt, dark backpack straps over shoulders.
+
+EXACT STARTING POSE & HAND LOCKS (MATCHING scene06_first_frame.png):
+- Yacine stands in right foreground angled three-quarters toward camera, looking forward-left with controlled anger and hurt: BOTH hands are completely empty, relaxed down along his sides with natural fingers slightly curved; wrists, arms, shoulders, and torso remain calm and grounded.
+- Mourad stands behind on the left beside the open gold chest facing forward toward Yacine's back, both black-gloved hands relaxed down at his sides.
+- Samir stands in center background in front of the dark arched doorway watching tensely with arms relaxed down.
+
+TIMESTAMPED ACTION & DIALOGUE TIMELINE:
+- 0.0s – 2.0s: Deep tense stillness inside the chamber. Yacine takes one slow, controlled breath (subtle chest rise only; keep BOTH empty hands and arms steady at his sides without raising them or gesturing).
+- 2.0s – 5.0s: Keeping his head steady and eyes locked forward with steel resolve, Yacine speaks in a quiet, low, firm Algerian Darija voice: "الخيانة ما تتنساش... ومازال ما سالاتش." (Lip-sync Yacine ONLY. Mourad and Samir remain completely silent in the background.)
+- 5.0s – 6.6s: In the background, Mourad tenses subtly beside the open chest watching Yacine's back with guarded unease while Samir looks slightly away in discomfort.
+- 6.6s – 8.0s: Hold completely steady on Yacine's unblinking, resolute expression in near-total silence for a razor-sharp post-production hard cut to black.
+
+CAMERA SPECIFICATION:
+- Locked static tripod eye-level medium close-up (50mm cinema lens, shallow natural depth of field keeping foreground Yacine crisp and background softly focused). Zero zoom, zero pan, zero camera shake, zero cuts.
+
+AUDIO SPECIFICATION:
+- Very quiet stone chamber room tone, subtle controlled breath at 0.5s, low firm Algerian Darija voice from Yacine only, leaving 6.6s–8.0s nearly silent to heighten suspense. Zero music.
+
+FINAL FRAME STATE:
+- Yacine stands unmoving in the right foreground with empty hands relaxed at his sides and fierce quiet determination in his eyes, Mourad beside the gold chest and Samir by the rear exit behind him—ready for a clean cut to black.
+
+STRICT CONSTRAINTS / FORBIDDEN ERRORS:
+- Keep BOTH of Yacine's hands empty and relaxed at his sides (do NOT raise hands, point fingers, clench fists, or add any object); NO sudden turning, attacking, weapons, or violence; keep Mourad and Samir's backpacks, clothes, and positions fixed; no subtitles or text.

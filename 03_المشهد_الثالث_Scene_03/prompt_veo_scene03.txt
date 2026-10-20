@@ -1,0 +1,32 @@
+SCENE 03 — THE DISCOVERY (فتح الصندوق والنظرة السرية)
+TOOL: Google Flow / Veo 3.1 Lite | DURATION: 8 seconds | ASPECT RATIO: Vertical 9:16
+VISUAL REFERENCE (START FRAME): scene03_first_frame.png (strict immutable start frame)
+
+CHARACTERS & VISUAL CONSTANTS:
+- Yacine (left of chest): 38, dark olive rolled-sleeve shirt, brown trousers, brown canvas backpack with black flashlight on strap, brown watch on left wrist.
+- Mourad (right of chest): 32, slicked-back black hair, sand expedition shirt, dark brown cargo pants, black fingerless tactical gloves on both hands, dark utility backpack.
+- Samir (behind Yacine on far left): 29, thin mustache, charcoal-gray long-sleeve shirt, dark green cargo pants, dark wristband, compact backpack.
+- Environment: Underground damp moss-lined ancient stone chamber with arched dark doorway in rear center, shaft of warm ceiling sunlight illuminating airborne dust, scattered old coins on stone floor, central iron-banded weathered wooden chest with heavy curved lid cracked slightly open.
+
+EXACT STARTING POSE & HAND LOCKS (MATCHING scene03_first_frame.png):
+- Yacine stands on the left leaning slightly toward the wooden chest: his LEFT hand rests flat on top of the curved wooden chest lid; his RIGHT arm hangs straight down along his right thigh; head angled down toward the chest.
+- Mourad stands on the right facing left/downward toward the chest with both black-gloved hands hanging relaxed by his thighs.
+- Samir stands behind Yacine on the left looking down at the chest, arms relaxed downward.
+
+TIMESTAMPED ACTION & DIALOGUE TIMELINE:
+- 0.0s – 2.2s: Using his LEFT hand already resting on top of the wooden chest lid (with natural support), Yacine smoothly lifts the heavy curved wooden lid upward on its rear hinges until open, revealing tarnished gold coins, solid gold ingots, and small ancient gold artifacts inside under the warm shaft of sunlight.
+- 2.2s – 4.5s: Yacine stares down at the revealed gold inside the open chest and speaks softly in Algerian Darija: "هاو هو... لقيناه أخيراً." (Lip-sync Yacine ONLY. Mourad and Samir keep mouths closed.)
+- 4.5s – 6.0s: Mourad leans slightly forward staring at the gold (keeping both black-gloved hands down without touching the gold) and whispers in Algerian Darija: "شوف شحال من ذهب!" (Lip-sync Mourad ONLY.)
+- 6.0s – 8.0s: While Yacine remains absorbed looking down at the open chest, Samir raises his eyes on the left to look across at Mourad; Mourad meets Samir's gaze across the chest and gives one slow, subtle, calculating nod. Yacine does not see the exchange.
+
+CAMERA SPECIFICATION:
+- Locked static tripod eye-level medium-wide shot (35mm cinema lens). Zero zoom, zero pan, zero cuts.
+
+AUDIO SPECIFICATION:
+- Heavy wooden chest hinge creak (0.0s–2.0s), faint metallic settle, low stone chamber ambience. Clear Algerian Darija speech with exact phrasing, no music stingers, no magical sound effects.
+
+FINAL FRAME STATE:
+- The central wooden chest stands open filled with solid tarnished gold under the warm ceiling light beam; Yacine looks down into the chest unaware while Mourad and Samir share silent complicity across him.
+
+STRICT CONSTRAINTS / FORBIDDEN ERRORS:
+- Do NOT make gold glow magically, float, multiply, or disappear; keep floor coins solid and static; do NOT alter character clothes, backpacks, or gloves; no extra people; no subtitles or watermarks.

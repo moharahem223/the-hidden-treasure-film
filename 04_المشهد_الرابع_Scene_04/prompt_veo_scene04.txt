@@ -1,0 +1,32 @@
+SCENE 04 — THE BETRAYAL BEGINS (بداية الخيانة وانقلاب النوايا)
+TOOL: Google Flow / Veo 3.1 Lite | DURATION: 8 seconds | ASPECT RATIO: Vertical 9:16
+VISUAL REFERENCE (START FRAME): scene04_first_frame.png (strict immutable start frame)
+
+CHARACTERS & VISUAL CONSTANTS:
+- Yacine (center foreground in left side-profile beside open gold chest): 38, dark olive shirt, brown pants, brown canvas backpack with black flashlight, brown watch on left wrist.
+- Samir (background left facing forward/right): 29, charcoal-gray long-sleeve shirt, green cargo pants, dark wristband, compact backpack.
+- Mourad (background right in cooler stone shadow): 32, sand expedition shirt, dark brown cargo pants, black fingerless gloves on both hands, dark utility backpack.
+
+EXACT STARTING POSE & HAND LOCKS (MATCHING scene04_first_frame.png):
+- Yacine stands center foreground holding a small ancient tarnished gold figurine artifact carefully in BOTH hands at mid-chest height, looking down at it in absorbed focus.
+- Samir stands behind on the left with both arms hanging straight at his sides, eyes looking across toward Mourad.
+- Mourad stands behind on the right with both black-gloved hands hanging down near his thighs, staring coldly at Yacine's back.
+
+TIMESTAMPED ACTION & DIALOGUE TIMELINE:
+- 0.0s – 1.5s: Yacine turns the small gold figurine gently between his hands in quiet study while Samir and Mourad share a tense look behind him.
+- 1.5s – 3.8s: Mourad takes a slow half-step forward on the right, raises his black-gloved RIGHT hand slightly in a controlled stopping gesture while keeping his left hand down, and says firmly and coldly in Algerian Darija: "ياسين، حطّ هذيك الحاجة وارجع للور." (Lip-sync Mourad ONLY.)
+- 3.8s – 5.3s: Yacine freezes with the gold artifact still held steadily in both hands, turns his head right over his shoulder toward Mourad with a confused expression, and says in Algerian Darija: "واش بيك يا مراد؟" (Lip-sync Yacine ONLY.)
+- 5.3s – 7.0s: Samir takes a hesitant small half-step forward on the left (keeping both hands relaxed down at his sides) and speaks nervously and regretfully in Algerian Darija: "سمحلي خويا... ما بقاتش كيما قبل." (Lip-sync Samir ONLY.)
+- 7.0s – 8.0s: Yacine turns his head from Samir back toward Mourad as realization of the betrayal hits his face, still holding the gold artifact calmly in both hands without sudden movement.
+
+CAMERA SPECIFICATION:
+- Locked static tripod eye-level medium shot (35mm cinema lens). Zero camera movement, zero zoom, zero cuts.
+
+AUDIO SPECIFICATION:
+- Subtle footsteps on damp stone, quiet fabric rustle, low stone room tone. Distinct authentic Algerian Darija voices with clean pauses between the three lines—zero overlapping speech, no loud music.
+
+FINAL FRAME STATE:
+- Yacine upright holding the small gold artifact in both hands with stunned realization, flanked behind left by hesitant Samir and behind right by cold, firm Mourad beside the open gold-filled chest.
+
+STRICT CONSTRAINTS / FORBIDDEN ERRORS:
+- Strictly non-violent: NO weapons, NO knives, NO guns, NO punching, NO physical grabbing; do NOT drop or float the gold artifact; keep open gold chest unchanged; no lip movement on non-speaking characters; no subtitles or text.
